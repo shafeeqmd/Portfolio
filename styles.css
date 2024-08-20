@@ -1,0 +1,76 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    background-color: #00796b;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .profile-photo {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2.5em;
+  }
+  
+  .headline {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  .btn {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #004d40;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .btn:hover {
+    background-color: #00332e;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #00796b;
+    padding-bottom: 10px;
+    font-size: 2em;
+  }
+  
+  .job, .degree {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #00796b;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
